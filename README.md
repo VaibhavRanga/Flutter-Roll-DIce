@@ -1,16 +1,10 @@
-# roll_dice
+<h1><strong>Flutter Dice Roll app</strong></h1>
+<ul>
+    <li>A flutter app developed using Dart programming language</li>
+    <li>Random number generator implementation for changing the dice images when clicked on Roll Dice button</li>
+    <li>The app runs on Android, iOS and several other major Operating Systems</li>
+</ul>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="823" alt="Screenshot 2025-04-03 at 12 37 17 PM" src="https://github.com/user-attachments/assets/a96e1263-87b8-4bac-a272-6678d30bb778" />
