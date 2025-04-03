@@ -1,4 +1,4 @@
-<h1><strong>Flutter Dice Roll app</strong></h1>
+<h1><strong>Flutter Roll Dice app</strong></h1>
 <ul>
     <li>A flutter app developed using Dart programming language</li>
     <li>Random number generator implementation for changing the dice images when clicked on Roll Dice button</li>
